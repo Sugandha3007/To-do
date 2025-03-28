@@ -16,3 +16,4 @@ Contribution push or pull
 forking of repositories
 github
 gitbash
+New branch made named license info

@@ -9,3 +9,10 @@ Contributors should fork the repository and create a pull request
 hello how are you
 hello how are yojgujhlkgkftioj;opi76fpg?u
 To-do-list
+New instructions
+ne features
+future features
+Contribution push or pull
+forking of repositories
+github
+gitbash
